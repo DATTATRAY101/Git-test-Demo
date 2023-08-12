@@ -1,3 +1,5 @@
+//java Program for find duplicate integer print only once. 
+
 public class DuplicateElement{
  public static void main(String[] args){
      
